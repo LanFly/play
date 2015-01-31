@@ -87,7 +87,7 @@ body{
 	right: 0.5%;
 	border-radius: 5px;
 	border: 2px solid #666;
-	box-shadow: 5px 5px 15px 0px #666;
+	box-shadow: 5px 5px 15px #666;
 }
 #list p{
 	font-size: 20px;
